@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">A passionate Java Developer & Data Science Engineer from India.</h3>
 
-<img align="right" width="300" src="https://static9.depositphotos.com/1001911/1174/v/450/depositphotos_11744967-stock-illustration-emoticon-with-computer.jpg">
+<img align="right" width="300" src="https://attic.sh/m3yb7maniercdb4pczbsz6fglat6">
 
 
 - 🌱 I’m currently learning **DSA, Web Development, Python**
